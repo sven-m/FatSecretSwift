@@ -1,0 +1,3 @@
+// Copy this file to Keys.xcconfig and insert your API keys
+FATSECRET_CONSUMER_KEY=insert-key
+FATSECRET_SHARED_SECRET=insert-secret
